@@ -1,0 +1,158 @@
+{
+    "1": {
+        "author": "omnia",
+        "post_id": 2,
+        "likes": 2,
+        "liked_by": [
+            {
+                "user": "b",
+                "time": "2024-10-01 17:33:00"
+            },
+            {
+                "user": "batoul",
+                "time": "2024-10-01 18:38:34"
+            }
+        ],
+        "comments": [],
+        "type": "image",
+        "image_path": "D:/mee/Trainings/SIC samsung innovation campus/projects/capstone_project/images/sale.jpg"
+    },
+    "2": {
+        "author": "omnia",
+        "post_id": 2,
+        "likes": 1,
+        "liked_by": [
+            {
+                "user": "omnia",
+                "time": "2024-10-01 17:31:07"
+            }
+        ],
+        "comments": [],
+        "type": "text",
+        "content": "hello , this is my first post!"
+    },
+    "3": {
+        "author": "omnia",
+        "post_id": 3,
+        "likes": 2,
+        "liked_by": [
+            {
+                "user": "b",
+                "time": "2024-10-01 17:33:03"
+            },
+            {
+                "user": "batoul",
+                "time": "2024-10-01 18:38:41"
+            }
+        ],
+        "comments": [],
+        "type": "image",
+        "image_path": "D:/mee/Trainings/SIC samsung innovation campus/projects/capstone_project/images/anime.jpg"
+    },
+    "4": {
+        "author": "omnia",
+        "post_id": 4,
+        "likes": 1,
+        "liked_by": [
+            {
+                "user": "b",
+                "time": "2024-10-01 17:33:06"
+            }
+        ],
+        "comments": [],
+        "type": "image",
+        "image_path": "D:/mee/Trainings/SIC samsung innovation campus/projects/capstone_project/images/posters.jpeg"
+    },
+    "5": {
+        "author": "omnia",
+        "post_id": 5,
+        "likes": 1,
+        "liked_by": [
+            {
+                "user": "batoul",
+                "time": "2024-10-01 18:38:48"
+            }
+        ],
+        "comments": [],
+        "type": "text",
+        "content": "hello"
+    },
+    "6": {
+        "author": "user1",
+        "post_id": 6,
+        "likes": 0,
+        "liked_by": [],
+        "comments": [],
+        "type": "text",
+        "content": "hi,iam user1"
+    },
+    "7": {
+        "author": "b",
+        "post_id": 7,
+        "likes": 0,
+        "liked_by": [],
+        "comments": [],
+        "type": "text",
+        "content": "welcome"
+    },
+    "8": {
+        "author": "batoul",
+        "post_id": 8,
+        "likes": 1,
+        "liked_by": [
+            {
+                "user": "omnia",
+                "time": "2024-10-01 18:41:50"
+            }
+        ],
+        "comments": [],
+        "type": "image",
+        "image_path": "D:/mee/Trainings/SIC samsung innovation campus/projects/capstone_project/images/victoria era.jpeg"
+    },
+    "9": {
+        "author": "batoul",
+        "post_id": 9,
+        "likes": 0,
+        "liked_by": [],
+        "comments": [],
+        "type": "text",
+        "content": "this is my first post!"
+    },
+    "10": {
+        "author": "batoul",
+        "post_id": 10,
+        "likes": 0,
+        "liked_by": [],
+        "comments": [],
+        "type": "image",
+        "image_path": "D:/mee/Trainings/SIC samsung innovation campus/projects/capstone_project/images/don't stop.jpeg"
+    },
+    "11": {
+        "author": "batoul",
+        "post_id": 11,
+        "likes": 1,
+        "liked_by": [
+            {
+                "user": "omnia",
+                "time": "2024-10-01 18:46:51"
+            }
+        ],
+        "comments": [],
+        "type": "image",
+        "image_path": "D:/mee/Trainings/SIC samsung innovation campus/projects/capstone_project/images/london.jpeg"
+    },
+    "12": {
+        "author": "batoul",
+        "post_id": 12,
+        "likes": 1,
+        "liked_by": [
+            {
+                "user": "omnia",
+                "time": "2024-10-01 18:47:03"
+            }
+        ],
+        "comments": [],
+        "type": "image",
+        "image_path": "D:/mee/Trainings/SIC samsung innovation campus/projects/capstone_project/images/painting.jpg"
+    }
+}

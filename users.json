@@ -1,0 +1,238 @@
+{
+    "omnia": {
+        "username": "omnia",
+        "email": "omnia@gmail.com",
+        "password": "456",
+        "Bio": "iam omnia",
+        "friends": [
+            "user1",
+            "b",
+            "user2",
+            "batoul"
+        ],
+        "friend_requests": [],
+        "posts": [
+            1,
+            2,
+            2,
+            3,
+            4,
+            5
+        ],
+        "messages_to_you": [
+            {
+                "from": "user1",
+                "content": "hi",
+                "time": "2024-09-30T16:29:59.222831"
+            }
+        ],
+        "messages_from_you": [
+            {
+                "to": "user1",
+                "content": "hello",
+                "time": "2024-09-30T15:49:45.674466"
+            },
+            {
+                "to": "b",
+                "content": "hello",
+                "time": "2024-09-30T20:27:38.854285"
+            },
+            {
+                "to": "user1",
+                "content": "hello",
+                "time": "2024-09-30T20:42:43.727433"
+            },
+            {
+                "to": "user1",
+                "content": "how are you",
+                "time": "2024-09-30T20:42:54.184720"
+            },
+            {
+                "to": "user2",
+                "content": "hi",
+                "time": "2024-09-30T20:45:41.910673"
+            },
+            {
+                "to": "user2",
+                "content": "hello",
+                "time": "2024-10-01T18:32:20.312867"
+            }
+        ],
+        "notifications": [],
+        "saved_posts": [
+            {
+                "author": "batoul",
+                "post_id": 10,
+                "likes": 1,
+                "liked_by": [
+                    {
+                        "user": "omnia",
+                        "time": "2024-10-01 18:42:08"
+                    }
+                ],
+                "comments": [],
+                "type": "image",
+                "image_path": "D:/mee/Trainings/SIC samsung innovation campus/projects/capstone_project/images/don't stop.jpeg"
+            },
+            {
+                "author": "batoul",
+                "post_id": 11,
+                "likes": 1,
+                "liked_by": [
+                    {
+                        "user": "omnia",
+                        "time": "2024-10-01 18:46:51"
+                    }
+                ],
+                "comments": [],
+                "type": "image",
+                "image_path": "D:/mee/Trainings/SIC samsung innovation campus/projects/capstone_project/images/london.jpeg"
+            },
+            {
+                "author": "batoul",
+                "post_id": 12,
+                "likes": 1,
+                "liked_by": [
+                    {
+                        "user": "omnia",
+                        "time": "2024-10-01 18:47:03"
+                    }
+                ],
+                "comments": [],
+                "type": "image",
+                "image_path": "D:/mee/Trainings/SIC samsung innovation campus/projects/capstone_project/images/painting.jpg"
+            }
+        ]
+    },
+    "user1": {
+        "username": "user1",
+        "email": "user1@gmail.com",
+        "password": "123",
+        "Bio": "this is user1",
+        "friends": [
+            "omnia",
+            "user2"
+        ],
+        "friend_requests": [],
+        "posts": [
+            6
+        ],
+        "messages_to_you": [
+            {
+                "from": "omnia",
+                "content": "hello",
+                "time": "2024-09-30T15:49:45.674466"
+            },
+            {
+                "from": "omnia",
+                "content": "hello",
+                "time": "2024-09-30T20:42:43.727433"
+            },
+            {
+                "from": "omnia",
+                "content": "how are you",
+                "time": "2024-09-30T20:42:54.184720"
+            }
+        ],
+        "messages_from_you": [
+            {
+                "to": "omnia",
+                "content": "hi",
+                "time": "2024-09-30T16:29:59.222831"
+            }
+        ],
+        "notifications": [],
+        "saved_posts": [
+            {
+                "author": "omnia",
+                "post_id": 2,
+                "likes": 0,
+                "liked_by": [],
+                "comments": [],
+                "type": "image",
+                "image_path": "D:/mee/Trainings/SIC samsung innovation campus/projects/capstone_project/images/sale.jpg"
+            }
+        ]
+    },
+    "user2": {
+        "username": "user2",
+        "email": "user2@gmail.com",
+        "password": "122",
+        "Bio": "iam user2",
+        "friends": [
+            "user1",
+            "omnia"
+        ],
+        "friend_requests": [],
+        "posts": [],
+        "messages_to_you": [
+            {
+                "from": "omnia",
+                "content": "hi",
+                "time": "2024-09-30T20:45:41.910673"
+            },
+            {
+                "from": "omnia",
+                "content": "hello",
+                "time": "2024-10-01T18:32:20.312867"
+            }
+        ],
+        "messages_from_you": [],
+        "notifications": [],
+        "saved_posts": []
+    },
+    "b": {
+        "username": "b",
+        "email": "b@gmail.com",
+        "password": "122",
+        "Bio": "Hello, I'm b",
+        "friends": [
+            "omnia"
+        ],
+        "friend_requests": [],
+        "posts": [
+            7
+        ],
+        "messages_to_you": [
+            {
+                "from": "omnia",
+                "content": "hello",
+                "time": "2024-09-30T20:27:38.854285"
+            }
+        ],
+        "messages_from_you": [],
+        "notifications": [],
+        "saved_posts": []
+    },
+    "batoul": {
+        "username": "batoul",
+        "email": "batoul@gmail.com",
+        "password": "111",
+        "Bio": "Hello, I'm batoul",
+        "friends": [
+            "omnia"
+        ],
+        "friend_requests": [],
+        "posts": [
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "messages_to_you": [],
+        "messages_from_you": [],
+        "notifications": [],
+        "saved_posts": [
+            {
+                "author": "batoul",
+                "post_id": 8,
+                "likes": 0,
+                "liked_by": [],
+                "comments": [],
+                "type": "image",
+                "image_path": "D:/mee/Trainings/SIC samsung innovation campus/projects/capstone_project/images/victoria era.jpeg"
+            }
+        ]
+    }
+}
